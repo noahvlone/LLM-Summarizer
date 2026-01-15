@@ -18,7 +18,7 @@ A Streamlit-based application that transforms YouTube lectures and documents int
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/LLM-Summarizer.git
+git clone https://github.com/noahvlone/LLM-Summarizer.git
 cd LLM-Summarizer
 ```
 
