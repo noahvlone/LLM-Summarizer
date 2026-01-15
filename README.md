@@ -42,7 +42,9 @@ Open `http://localhost:8501` in your browser.
 
 ## Output
 ![Image](https://github.com/user-attachments/assets/48f2deea-152f-49ba-a2d8-8612889f916f)
+
 ![Image](https://github.com/user-attachments/assets/d4974dd8-50b0-4973-bc3a-24b62b984cf1)
+
 ![Image](https://github.com/user-attachments/assets/ef7fbf29-2d76-4bba-920a-19f36296b3a0)
 
 ## 🔑 API Keys Required
