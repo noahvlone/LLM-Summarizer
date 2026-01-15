@@ -40,6 +40,11 @@ streamlit run app.py
 
 Open `http://localhost:8501` in your browser.
 
+## Output
+[Summarize]()
+[Practice Quiz]()
+[Results]()
+
 ## 🔑 API Keys Required
 
 | Provider | Get API Key |
